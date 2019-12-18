@@ -1,0 +1,15 @@
+body{
+    background-color: grey;
+}
+
+#line{
+    border: 3px inset;
+    height: 1px;
+    width: 350px;
+    opacity: .3;
+    margin-left: 0px;
+}
+
+.allcaps{
+    text-transform: uppercase;
+}
